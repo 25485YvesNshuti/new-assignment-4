@@ -174,7 +174,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                       SizedBox(height: 2),
                       const Text(
-                        'Oliverbyo34@gmail.com',
+                        'nshutiyves70@gmail.com',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 14,
